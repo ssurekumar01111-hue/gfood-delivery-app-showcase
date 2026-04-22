@@ -7,6 +7,29 @@ This repository is a **showcase and documentation project** created to demonstra
 👉 **No proprietary source code is included**.
 
 ---
+## 📖 Exploring This Repository
+
+This is a documentation and showcase repository. No source code is included.
+
+### What's Inside
+- Architecture diagrams and system design notes
+- Security implementation details
+- Firebase configuration references
+- Production deployment experience documentation
+
+### Want to Build Something Similar?
+The stack used in this project:
+| Tool | Purpose |
+|------|---------|
+| Flutter | Cross-platform mobile apps |
+| Firebase Auth | Role-based authentication |
+| Cloud Firestore | Real-time database |
+| Firebase Functions | Backend logic (Node.js) |
+| Razorpay | Payment gateway |
+| Google Maps SDK | Location & tracking |
+
+### Live Apps
+Try the production apps directly on Google Play (links above).
 
 ## 📱 Live Applications (Google Play Store)
 
@@ -86,7 +109,3 @@ Achieved approximately **99.9% crash-free sessions** across production releases.
 - Live location tracking
 - Cash collection confirmation
 - Delivery status updates
-
----
-
-## 🧠 High-Level Architecture
