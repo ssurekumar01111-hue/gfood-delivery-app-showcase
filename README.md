@@ -29,7 +29,7 @@ The stack used in this project:
 | Google Maps SDK | Location & tracking |
 
 ### Live Apps
-Try the production apps directly on Google Play (links above).
+Try the production apps directly on Google Play (links below).
 
 ## 📱 Live Applications (Google Play Store)
 
